@@ -84,7 +84,7 @@ All models are trained and evaluated using cleaned comment data.
 * Compare all models on a held-out test set.
 * Evaluate metrics like **accuracy**, **F1-score**, **precision**, and **recall**.
 
-### 8. 📌 Conclusions
+### 8. Conclusions
 
 * Discuss findings, trade-offs, and recommend the best model for production deployment.
 
